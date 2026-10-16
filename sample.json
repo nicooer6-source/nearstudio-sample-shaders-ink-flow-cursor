@@ -1,0 +1,12 @@
+{
+  "slug": "shaders-ink-flow-cursor",
+  "title": "Ink Flow Cursor",
+  "titleZh": "鼠标流体拖尾",
+  "category": "Cursor Effect",
+  "source": "https://shaders.com/",
+  "upstream": "https://github.com/shader-effects-inc/shaders",
+  "license": "MIT",
+  "framework": "React + TypeScript + Vite",
+  "interactive": true,
+  "entry": "src/ShadersInkFlowCursor.tsx"
+}
